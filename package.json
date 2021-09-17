@@ -1,0 +1,11 @@
+{
+  "name": "zenn.dev",
+  "version": "1.0.0",
+  "repository": "https://github.com/nokazn/zenn.dev",
+  "author": "nokazn <41154684+nokazn@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "zenn-cli": "^0.1.95"
+  }
+}
