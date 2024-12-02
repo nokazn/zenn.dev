@@ -13,5 +13,5 @@
   "devDependencies": {
     "zenn-cli": "^0.1.158"
   },
-  "packageManager": "yarn@4.5.3"
+  "packageManager": "yarn@4.5.2"
 }
