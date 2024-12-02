@@ -8,9 +8,18 @@
   "scripts": {
     "preview": "zenn preview",
     "new:article": "zenn new:article",
-    "new:book": "zenn new:book"
+    "new:book": "zenn new:book",
+    "lint": "concurrently -c auto 'npm:lint:*'",
+    "lint:md": "markdownlint './**/*.md' --ignore-path .gitignore",
+    "lint:spell": "cspell lint './**/*.md'",
+    "lint:text": "textlint './**/*.md'"
   },
   "devDependencies": {
+    "concurrently": "^9.1.0",
+    "cspell": "^8.16.1",
+    "markdownlint-cli": "^0.43.0",
+    "textlint": "^14.4.0",
+    "textlint-rule-preset-ja-technical-writing": "^10.0.1",
     "zenn-cli": "^0.1.158"
   },
   "packageManager": "yarn@4.5.2"
