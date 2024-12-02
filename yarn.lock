@@ -1361,7 +1361,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"concurrently@npm:^9.1.0":
+"concurrently@npm:9.1.0":
   version: 9.1.0
   resolution: "concurrently@npm:9.1.0"
   dependencies:
@@ -1516,7 +1516,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cspell@npm:^8.16.1":
+"cspell@npm:8.16.1":
   version: 8.16.1
   resolution: "cspell@npm:8.16.1"
   dependencies:
@@ -3011,7 +3011,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"markdownlint-cli@npm:^0.43.0":
+"markdownlint-cli@npm:0.43.0":
   version: 0.43.0
   resolution: "markdownlint-cli@npm:0.43.0"
   dependencies:
@@ -4511,7 +4511,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"textlint-rule-preset-ja-technical-writing@npm:^10.0.1":
+"textlint-rule-preset-ja-technical-writing@npm:10.0.1":
   version: 10.0.1
   resolution: "textlint-rule-preset-ja-technical-writing@npm:10.0.1"
   dependencies:
@@ -4609,7 +4609,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"textlint@npm:^14.4.0":
+"textlint@npm:14.4.0":
   version: 14.4.0
   resolution: "textlint@npm:14.4.0"
   dependencies:
@@ -5103,7 +5103,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zenn-cli@npm:^0.1.158":
+"zenn-cli@npm:0.1.158":
   version: 0.1.158
   resolution: "zenn-cli@npm:0.1.158"
   bin:
@@ -5116,12 +5116,12 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "zenn.dev@workspace:."
   dependencies:
-    concurrently: "npm:^9.1.0"
-    cspell: "npm:^8.16.1"
-    markdownlint-cli: "npm:^0.43.0"
-    textlint: "npm:^14.4.0"
-    textlint-rule-preset-ja-technical-writing: "npm:^10.0.1"
-    zenn-cli: "npm:^0.1.158"
+    concurrently: "npm:9.1.0"
+    cspell: "npm:8.16.1"
+    markdownlint-cli: "npm:0.43.0"
+    textlint: "npm:14.4.0"
+    textlint-rule-preset-ja-technical-writing: "npm:10.0.1"
+    zenn-cli: "npm:0.1.158"
   languageName: unknown
   linkType: soft
 
