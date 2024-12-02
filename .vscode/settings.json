@@ -1,0 +1,15 @@
+{
+  "[nix]": {
+    "editor.defaultFormatter": "B4dM4n.nixpkgs-fmt",
+    "editor.formatOnSave": true
+  },
+  "[json][jsonc][markdown][toml]": {
+    "editor.defaultFormatter": "dprint.dprint",
+    "editor.formatOnSave": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#0C351F",
+    "titleBar.activeBackground": "#114A2B",
+    "titleBar.activeForeground": "#F3FCF7"
+  }
+}
