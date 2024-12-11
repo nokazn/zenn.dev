@@ -1,6 +1,6 @@
 {
   "[nix]": {
-    "editor.defaultFormatter": "B4dM4n.nixpkgs-fmt",
+    "editor.defaultFormatter": "brettm12345.nixfmt-vscode",
     "editor.formatOnSave": true
   },
   "[json][jsonc][markdown][toml]": {

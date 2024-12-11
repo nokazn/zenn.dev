@@ -1,6 +1,6 @@
 [formatter.nix]
-command = "nixpkgs-fmt"
-includes = ["./**/*.nix"]
+command = "nixfmt"
+includes = ["*.nix"]
 
 [formatter.dprint]
 command = "dprint"
